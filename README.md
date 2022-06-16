@@ -49,11 +49,11 @@
         (1) 即時將ultrasonic偵測到的障礙物距離顯示在LCD上，包含cm 和inch。
         (2) 當障礙物距離小於5cm播放音樂。
         (3) ctrl+c 結束程式。
-
+<!-- 
 * /homework0512
     * 實驗四 (mcp3008, Photocell, and Joystick)
         (1) 沒有操作時，LCD顯示光敏電阻和搖桿的數值，顯示的格式自己定義。
-        (2) 當操作時，顯示當下的數值，同時導引改變的趨勢(例如: UP, DOWN, LEFT, RIGHT, PRESSED, Light, Dark)。
+        (2) 當操作時，顯示當下的數值，同時導引改變的趨勢(例如: UP, DOWN, LEFT, RIGHT, PRESSED, Light, Dark)。 -->
 
 * /homework0519
     * 實驗五 DHT22 & Web
